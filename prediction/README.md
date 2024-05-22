@@ -1,8 +1,6 @@
-# DRONACHARYA
+# College Prediction
 
-A Collge Recommendation System For Engineering Admission.
-
-You can use Dronacharya to automate the tedious process of finding colleges through traversing pdf containing thousands of pages.
+A Colleg Recommendation System For Engineering Admission.
 
 
 ## Motivation
