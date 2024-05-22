@@ -1,0 +1,8 @@
+/.vscode
+/windows venv
+database.db-journal
+/venv
+/__pycache__
+/.venv
+__pycache__
+.vscode

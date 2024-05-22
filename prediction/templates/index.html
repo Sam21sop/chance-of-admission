@@ -1,0 +1,33 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Homepage
+{% endblock %}
+
+{% block main %}
+<!-- Header -->
+<header id="header" class="header bg-white">
+    <div class="header-content"> 
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2 col-xl-8">
+                    <div class="text-container">
+                        <h1 class="text-dark">College Recommendation System for Engineering Admission </h1>
+                        <p class="text-dark font-italic">
+                            Predicting colleges based on user profile using machine learning model
+                        </p>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-2 col-xl-1">
+                    <div class="image-container">
+                        <div class="img-wrapper">
+                            <img class="img-fluid main-img" src="../static/university.png" alt="alternative">
+                        </div> <!-- end of img-wrapper -->
+                    </div> <!-- end of image-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div><!--  end of header-content -->
+</header><!--  end of header -->
+{% endblock %}
+
