@@ -62,16 +62,16 @@ Local host the website
 
 
 ### Home Page
-[!homepage](./static/homePage.JPG)
+![homepage](./static/homePage.JPG)
 
 ### Register Page
-[!registeuser](./static/registerPage.JPG)
+![registeuser](./static/registerPage.JPG)
 
 ### Login Page
-[!userLogin](./static/loginPage.JPG)
+![userLogin](./static/loginPage.JPG)
 
 ### Student Data and Branch Selection
-[!branchselection](./static/branchSelectionPage.JPG)
+![branchselection](./static/branchSelectionPage.JPG)
 
 ### Predicted Result
-[!result](./static/predictedColleges.JPG)
+![result](./static/predictedColleges.JPG)
