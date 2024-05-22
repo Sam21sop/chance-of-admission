@@ -59,3 +59,19 @@ Local host the website
 ```bash
   python app.py
 ```
+
+
+### Home Page
+[!homepage](./static/homePage.JPG)
+
+### Register Page
+[!registeuser](./static/registerPage.JPG)
+
+### Login Page
+[!userLogin](./static/loginPage.JPG)
+
+### Student Data and Branch Selection
+[!branchselection](./static/branchSelectionPage.JPG)
+
+### Predicted Result
+[!result](./static/predictedColleges.JPG)
